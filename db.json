@@ -1,6 +1,7 @@
 {
     "posts": [
         { 
+            "id": "1",
             "Title": "Sanuth - the secret recipe to passing exams",
             "Author": "Benjamin", 
             "Date": "Nov 4, 2019", 
@@ -22,6 +23,7 @@
             ]
         },
         { 
+            "id": "2",
             "Title": "Read ahead before exams maul you",
             "Author": "Jonathan", 
             "Date": "Nov 11, 2019", 
@@ -47,6 +49,7 @@
             ]
         },
         { 
+            "id": "3",
             "Title": "Sanuth - the secret recipe to passing exams",
             "Author": "Benjamin", 
             "Date": "Nov 4, 2019", 
@@ -68,6 +71,7 @@
             ]
         },
         { 
+            "id": "4",
             "Title": "Internship is killing me!",
             "Author": "Veronica", 
             "Date": "Nov 9, 2019", 
@@ -95,6 +99,7 @@
     ], 
     "Profiles": [
         { 
+            "id": "1",
             "Name": "David",
             "School": "UNILAG",
             "Hobbies": "Singing, Dancing, Whatever",
@@ -103,6 +108,7 @@
             "img_src": ""
         },
         { 
+            "id": "2",
             "Name": "Veronica",
             "School": "FUTA",
             "Hobbies": "Singing, Dancing, Whatever",
@@ -111,6 +117,7 @@
             "img_src": ""
         },
         { 
+            "id": "3",
             "Name": "Funminiyi",
             "School": "FUTA",
             "Hobbies": "Reading, Partying",
