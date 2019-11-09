@@ -92,5 +92,31 @@
                  }
             ]
         }
+    ], 
+    "Profiles": [
+        { 
+            "Name": "David",
+            "School": "UNILAG",
+            "Hobbies": "Singing, Dancing, Whatever",
+            "Quote": "It is well that ends well", 
+            "Interests": "Banking, ICT",
+            "img_src": ""
+        },
+        { 
+            "Name": "Veronica",
+            "School": "FUTA",
+            "Hobbies": "Singing, Dancing, Whatever",
+            "Quote": "Jesus is the answer for the world today", 
+            "Interests": "HR",
+            "img_src": ""
+        },
+        { 
+            "Name": "Funminiyi",
+            "School": "FUTA",
+            "Hobbies": "Reading, Partying",
+            "Quote": "Wait for me later", 
+            "Interests": "Music",
+            "img_src": ""
+        }
     ]
 }
