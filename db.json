@@ -1,1 +1,96 @@
-{}
+{
+    "posts": [
+        { 
+            "Title": "Sanuth - the secret recipe to passing exams",
+            "Author": "Benjamin", 
+            "Date": "Nov 4, 2019", 
+            "Views": 200, 
+            "Content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis dolor nemo esse, alias quod laudantium quos modi ipsum nesciunt aliquid illum facilis magnam id error recusandae ea obcaecati commodi a exercitationem voluptatibus ullam atque repellat possimus. Repellat, non minus reiciendis dolor vero quasi, odio, veniam inventore soluta esse similique officia. In aliquam odio autem eius debitis possimus aspernatur sit, quaerat excepturi, rem alias laboriosam impedit voluptatibus doloremque nulla eaque! Odio vel sunt maxime est exercitationem sint deleniti similique, necessitatibus deserunt animi dolore nostrum laudantium voluptate voluptas nesciunt nemo quisquam ipsam ullam mollitia cum. Veritatis rem doloribus animi dicta eaque magni enim fugiat laboriosam sunt eveniet explicabo, cumque velit eligendi voluptatum repellendus possimus perspiciatis commodi temporibus. Nihil cum aperiam vel? Esse possimus, cumque consectetur sapiente amet reiciendis veritatis odio. Hic facilis voluptate ab facere consectetur. Deleniti cupiditate nihil in eveniet, est tenetur sequi harum. Ratione alias, veniam temporibus vero aliquam hic doloribus impedit sint quas facilis eveniet ab asperiores voluptates provident placeat. Nulla error cupiditate voluptas inventore vero eos voluptate fugiat corporis laborum iusto dicta officia illo dolorum cum esse libero magnam perspiciatis expedita tempore aperiam reprehenderit explicabo alias, maxime harum. Ipsa, eius. Blanditiis consequatur nihil laborum eius, voluptates numquam sequi?", 
+            "Comments": [
+                { 
+                    "Commenter": "Joseph", 
+                    "Comment": "Totally love this!"
+                 },
+                 { 
+                    "Commenter": "Balmer", 
+                    "Comment": "It gaz work o"
+                 },
+                 { 
+                    "Commenter": "Kelvin", 
+                    "Comment": "Liar!!!!"
+                 }
+            ]
+        },
+        { 
+            "Title": "Read ahead before exams maul you",
+            "Author": "Jonathan", 
+            "Date": "Nov 11, 2019", 
+            "Views": 100, 
+            "Content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis dolor nemo esse, alias quod laudantium quos modi ipsum nesciunt aliquid illum facilis magnam id error recusandae ea obcaecati commodi a exercitationem voluptatibus ullam atque repellat possimus. Repellat, non minus reiciendis dolor vero quasi, odio, veniam inventore soluta esse similique officia. In aliquam odio autem eius debitis possimus aspernatur sit, quaerat excepturi, rem alias laboriosam impedit voluptatibus doloremque nulla eaque! Odio vel sunt maxime est exercitationem sint deleniti similique, necessitatibus deserunt animi dolore nostrum laudantium voluptate voluptas nesciunt nemo quisquam ipsam ullam mollitia cum. Veritatis rem doloribus animi dicta eaque magni enim fugiat laboriosam sunt eveniet explicabo, cumque velit eligendi voluptatum repellendus possimus perspiciatis commodi temporibus. Nihil cum aperiam vel? Esse possimus, cumque consectetur sapiente amet reiciendis veritatis odio. Hic facilis voluptate ab facere consectetur. Deleniti cupiditate nihil in eveniet, est tenetur sequi harum. Ratione alias, veniam temporibus vero aliquam hic doloribus impedit sint quas facilis eveniet ab asperiores voluptates provident placeat. Nulla error cupiditate voluptas inventore vero eos voluptate fugiat corporis laborum iusto dicta officia illo dolorum cum esse libero magnam perspiciatis expedita tempore aperiam reprehenderit explicabo alias, maxime harum. Ipsa, eius. Blanditiis consequatur nihil laborum eius, voluptates numquam sequi?", 
+            "Comments": [
+                { 
+                    "Commenter": "Johnson", 
+                    "Comment": "Advice yin po, se ma n we ju!"
+                 },
+                 { 
+                    "Commenter": "Jennifer", 
+                    "Comment": "Before nko"
+                 },
+                 { 
+                    "Commenter": "David", 
+                    "Comment": "Lol, ati gbo, mr too know"
+                 },
+                 { 
+                    "Commenter": "Sunday", 
+                    "Comment": "Wait, are you for reals?"
+                 }
+            ]
+        },
+        { 
+            "Title": "Sanuth - the secret recipe to passing exams",
+            "Author": "Benjamin", 
+            "Date": "Nov 4, 2019", 
+            "Views": 200, 
+            "Content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis dolor nemo esse, alias quod laudantium quos modi ipsum nesciunt aliquid illum facilis magnam id error recusandae ea obcaecati commodi a exercitationem voluptatibus ullam atque repellat possimus. Repellat, non minus reiciendis dolor vero quasi, odio, veniam inventore soluta esse similique officia. In aliquam odio autem eius debitis possimus aspernatur sit, quaerat excepturi, rem alias laboriosam impedit voluptatibus doloremque nulla eaque! Odio vel sunt maxime est exercitationem sint deleniti similique, necessitatibus deserunt animi dolore nostrum laudantium voluptate voluptas nesciunt nemo quisquam ipsam ullam mollitia cum. Veritatis rem doloribus animi dicta eaque magni enim fugiat laboriosam sunt eveniet explicabo, cumque velit eligendi voluptatum repellendus possimus perspiciatis commodi temporibus. Nihil cum aperiam vel? Esse possimus, cumque consectetur sapiente amet reiciendis veritatis odio. Hic facilis voluptate ab facere consectetur. Deleniti cupiditate nihil in eveniet, est tenetur sequi harum. Ratione alias, veniam temporibus vero aliquam hic doloribus impedit sint quas facilis eveniet ab asperiores voluptates provident placeat. Nulla error cupiditate voluptas inventore vero eos voluptate fugiat corporis laborum iusto dicta officia illo dolorum cum esse libero magnam perspiciatis expedita tempore aperiam reprehenderit explicabo alias, maxime harum. Ipsa, eius. Blanditiis consequatur nihil laborum eius, voluptates numquam sequi?", 
+            "Comments": [
+                { 
+                    "Commenter": "Joseph", 
+                    "Comment": "Totally love this!"
+                 },
+                 { 
+                    "Commenter": "Balmer", 
+                    "Comment": "It gaz work o"
+                 },
+                 { 
+                    "Commenter": "Kelvin", 
+                    "Comment": "Liar!!!!"
+                 }
+            ]
+        },
+        { 
+            "Title": "Internship is killing me!",
+            "Author": "Veronica", 
+            "Date": "Nov 9, 2019", 
+            "Views": 50, 
+            "Content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis dolor nemo esse, alias quod laudantium quos modi ipsum nesciunt aliquid illum facilis magnam id error recusandae ea obcaecati commodi a exercitationem voluptatibus ullam atque repellat possimus. Repellat, non minus reiciendis dolor vero quasi, odio, veniam inventore soluta esse similique officia. In aliquam odio autem eius debitis possimus aspernatur sit, quaerat excepturi, rem alias laboriosam impedit voluptatibus doloremque nulla eaque! Odio vel sunt maxime est exercitationem sint deleniti similique, necessitatibus deserunt animi dolore nostrum laudantium voluptate voluptas nesciunt nemo quisquam ipsam ullam mollitia cum. Veritatis rem doloribus animi dicta eaque magni enim fugiat laboriosam sunt eveniet explicabo, cumque velit eligendi voluptatum repellendus possimus perspiciatis commodi temporibus. Nihil cum aperiam vel? Esse possimus, cumque consectetur sapiente amet reiciendis veritatis odio. Hic facilis voluptate ab facere consectetur. Deleniti cupiditate nihil in eveniet, est tenetur sequi harum. Ratione alias, veniam temporibus vero aliquam hic doloribus impedit sint quas facilis eveniet ab asperiores voluptates provident placeat. Nulla error cupiditate voluptas inventore vero eos voluptate fugiat corporis laborum iusto dicta officia illo dolorum cum esse libero magnam perspiciatis expedita tempore aperiam reprehenderit explicabo alias, maxime harum. Ipsa, eius. Blanditiis consequatur nihil laborum eius, voluptates numquam sequi?", 
+            "Comments": [
+                { 
+                    "Commenter": "Johnson", 
+                    "Comment": "Advice yin po, se ma n we ju!"
+                 },
+                 { 
+                    "Commenter": "Jennifer", 
+                    "Comment": "Before nko"
+                 },
+                 { 
+                    "Commenter": "David", 
+                    "Comment": "Lol, ati gbo, mr too know"
+                 },
+                 { 
+                    "Commenter": "Sunday", 
+                    "Comment": "Wait, are you for reals?"
+                 }
+            ]
+        }
+    ]
+}
